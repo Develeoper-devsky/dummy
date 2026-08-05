@@ -1,0 +1,4778 @@
+{
+  "version": 1,
+  "category": "ARBAB_Neweee_Frames2020",
+  "themes": [
+    {
+      "id": "preset:arbab_theme_frame_01",
+      "name": "Theme_01",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/Alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_02",
+      "name": "Theme_02",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2048/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -46414,
+        "pressedTextColor": -46414,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/back%20space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -46414,
+        "pressedTextColor": -46414,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/space-1.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -46414,
+        "pressedTextColor": -46414,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -46414,
+          "pressedTextColor": -46414,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/back%20space%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -46414,
+          "pressedTextColor": -46414,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2049/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -46414,
+          "pressedTextColor": -46414,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_03",
+      "name": "Theme_03",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_04",
+      "name": "Theme_04",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/alpa%20key%20presss.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/sapce%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/commaPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2051/commaPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_05",
+      "name": "Theme_05",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2052/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_06",
+      "name": "Theme_06",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backsapce%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/sapce%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/number%20press.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_07",
+      "name": "Theme_07",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number.png?raw=true",
+          "hideLabel": false
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2055/number%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_08",
+      "name": "Theme_08",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backsapce%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -16777216,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2056/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_09",
+      "name": "Theme_09",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2053/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backsapce%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/backsapce%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2058/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_10",
+      "name": "Theme_10",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_11",
+      "name": "Theme_11",
+      "keyboardBackground": {
+        "type": "SolidColor",
+        "color": -2894893
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/Group%201171276833.png?raw=true",
+          "hideLabel": false,
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2061/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_12",
+      "name": "Theme_12",
+      "keyboardBackground": {
+        "type": "SolidColor",
+        "color": -1665888
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpa.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpakey%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/space%20press-1.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/number.png?raw=true",
+          "hideLabel": false,
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpa.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpa.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpa.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2062/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_13",
+      "name": "Theme_13",
+      "keyboardBackground": {
+        "type": "SolidColor",
+        "color": -16777216
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2063/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_14",
+      "name": "Theme_14",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2059/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/action.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/back%20space.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "shift": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/back%20space.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/action.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "1": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "3": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "5": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "7": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "9": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "W": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "R": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "Y": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "I": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "P": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "A": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "D": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "G": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "J": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "L": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "Z": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "C": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "B": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "M": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/key%202.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2060/alpakey%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_15",
+      "name": "Theme_15",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -16777216,
+        "pressedTextColor": -16777216,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/number%20key.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "shift": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "W": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "E": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "R": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "T": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "U": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "I": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "O": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "S": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "D": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "F": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "G": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "J": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "K": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "L": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "Z": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "X": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "C": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20green%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "V": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20orange%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "N": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20grape%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "M": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2054/alpa%20key%20light%20%20pink%20color%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -16777216,
+          "pressedTextColor": -16777216,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    },
+    {
+      "id": "preset:arbab_theme_frame_16",
+      "name": "Theme_16",
+      "keyboardBackground": {
+        "type": "ImageResource",
+        "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2050/bg.png?raw=true",
+        "tile": "FIT",
+        "opacity": 1
+      },
+      "letterKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/alpa%20key.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/alpa%20key%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "actionKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "spaceKey": {
+        "background": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/space.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "pressedBackground": {
+          "type": "ImageResource",
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/space%20press.png?raw=true",
+          "tile": "FIT",
+          "opacity": 1
+        },
+        "textColor": -1,
+        "pressedTextColor": -1,
+        "textSizeSp": 18,
+        "cornerRadiusDp": 10,
+        "strokeWidthDp": 0,
+        "strokeColor": 0,
+        "iconTint": -1,
+        "iconSizeDp": null
+      },
+      "keyOverrides": {
+        "numberKeys": {
+          "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/number.png?raw=true",
+          "hideLabel": false,
+
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "comma": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "language": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "backspace": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "shift": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "enter": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/backspace%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "period": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/comma.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/alpa%20key%20press.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "2": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/greenPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "3": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/blue.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/bluePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "4": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/red.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/redPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "6": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/yellow.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/yellowPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "7": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/red.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/redPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "8": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/greenPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "9": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/red.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Group/redPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "W": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pink.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pinkPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "E": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/greemPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "R": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/blue.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/bluePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "T": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orange.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orangePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "U": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellow.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellowPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "I": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pink.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pinkPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "O": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/greemPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "S": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pink.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pinkPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "D": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/greemPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "F": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/blue.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/bluePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "G": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orange.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orangePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "J": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellow.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellowPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "K": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pink.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pinkPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "L": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/greemPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+
+        "X": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pink.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/pinkPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "C": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/green.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/greemPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "V": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/blue.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/bluePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "B": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orange.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/orangePress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        },
+        "M": {
+          "background": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellow.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "pressedBackground": {
+            "type": "ImageResource",
+            "imageUrl": "https://github.com/Develeoper-devsky/kybrdThmAssts/blob/themes_arbab/themes_arbab/3Aug/Frame%2057/Rectangle/yellowPress.png?raw=true",
+            "tile": "FIT",
+            "opacity": 1
+          },
+          "textColor": -1,
+          "pressedTextColor": -1,
+          "textSizeSp": 18,
+          "cornerRadiusDp": 10,
+          "strokeWidthDp": 0,
+          "strokeColor": 0,
+          "iconTint": -1,
+          "iconSizeDp": null
+        }
+      },
+      "clickAnimation": {
+        "type": "Ripple",
+        "color": 536870911,
+        "maxRadiusDp": 22,
+        "durationMs": 200
+      },
+      "keySoundEffect": {
+        "type": "Asset",
+        "assetName": "key_sound_pop"
+      },
+      "keyPreview": {
+        "type": "Auto"
+      },
+      "defaultCornerRadiusDp": 10,
+      "type": "local"
+    }
+  ]
+}
